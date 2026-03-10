@@ -1,2 +1,26 @@
-# devfinance-ai
-DevFinance AI is a personal finance dashboard built with Python, Streamlit and SQLite to analyze spending patterns and visualize expenses.
+# DevFinance AI
+
+An intelligent expense analysis system built with Python.
+
+## Features
+
+- Expense tracking
+- Category analysis
+- Interactive dashboard
+- SQLite database
+- Data visualization
+
+## Tech Stack
+
+Python  
+Streamlit  
+SQLite  
+Pandas  
+Plotly  
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/DiegoHAS08/devfinance-ai
